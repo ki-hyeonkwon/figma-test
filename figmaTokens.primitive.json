@@ -1,0 +1,80 @@
+{
+  "color": {
+    "blue": {
+      "blue50": "#f6fbff",
+      "blue100": "#ecf6ff",
+      "blue200": "#e2f2ff",
+      "blue300": "#d4ecff",
+      "blue400": "#b4ddff",
+      "blue500": "#5bb7ff",
+      "blue600": "#0a93ff",
+      "blue700": "#0779df",
+      "blue800": "#075db4",
+      "blue900": "#0b3e91"
+    },
+    "common": {
+      "black": "#000000",
+      "white": "#ffffff"
+    },
+    "gray": {
+      "gray50": "#f7f9fa",
+      "gray100": "#f1f4f6",
+      "gray200": "#e7edf0",
+      "gray300": "#cfd6d9",
+      "gray400": "#aeb7bc",
+      "gray500": "#6e777c",
+      "gray600": "#5e696e",
+      "gray700": "#4a5256",
+      "gray800": "#353c3f",
+      "gray900": "#222729"
+    },
+    "green": {
+      "green50": "#ebfaef",
+      "green100": "#d7f4df",
+      "green200": "#c2eece",
+      "green300": "#97e2b4",
+      "green400": "#6cd69a",
+      "green500": "#41ca80",
+      "green600": "#15bd66",
+      "green700": "#10ac4c",
+      "green800": "#0a9a32",
+      "green900": "#018827"
+    },
+    "oxford": {
+      "oxford50": "#dadaee",
+      "oxford100": "#c1c1d7",
+      "oxford200": "#a7a7bf",
+      "oxford300": "#73738f",
+      "oxford400": "#5a5a78",
+      "oxford500": "#474766",
+      "oxford600": "#333354",
+      "oxford700": "#202042",
+      "oxford800": "#0c0c30",
+      "oxford900": "#030319"
+    },
+    "red": {
+      "red50": "#ffefef",
+      "red100": "#fad8d8",
+      "red200": "#f2b2b2",
+      "red300": "#e68686",
+      "red400": "#de6969",
+      "red500": "#da5b5b",
+      "red600": "#d64c4c",
+      "red700": "#c54343",
+      "red800": "#9f3433",
+      "red900": "#792523"
+    },
+    "yellow": {
+      "yellow50": "#fff7d9",
+      "yellow100": "#fff4c6",
+      "yellow200": "#fff0b3",
+      "yellow300": "#ffe88d",
+      "yellow400": "#ffe066",
+      "yellow500": "#ffd633",
+      "yellow600": "#ffcc00",
+      "yellow700": "#fdc100",
+      "yellow800": "#fbb500",
+      "yellow900": "#e4a400"
+    }
+  }
+}
